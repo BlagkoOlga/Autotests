@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resourses/application.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resourses/chrome.capabilities" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resourses/debug.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resourses/firefox.capabilities" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resourses/htmlunit.capabilities" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resourses/ie.capabilities" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resourses/opera.capabilities" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resourses/phantomjs.capabilities" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resourses/safari.capabilities" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resourses/testng.xml" charset="UTF-8" />
+  </component>
 </project>
 

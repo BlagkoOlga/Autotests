@@ -25,6 +25,9 @@
         <module name="Autotests" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Autotests" target="1.6" />
+    </bytecodeTargetLevel>
   </component>
 </project>
 
